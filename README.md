@@ -1,0 +1,1 @@
+This repo follows the Udemy course Modern JavaScript From The Beginning
